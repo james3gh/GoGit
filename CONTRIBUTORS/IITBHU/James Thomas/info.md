@@ -26,6 +26,7 @@ To know more, <a href = "https://github.com/james3gh">click here</a>.
 git commit --amend -m "title" -m "description" . <br />
 You can also write the commit message in vi editor using amend command.
 However using this command makes a new commit hash, so one need to force push it to be reflected in remote repo.
+commit 1 from b3
 
 ### Ques-2 Is force push a good practice? Yes/No why? In most of the tasks on this repo, you used force push, so why this practice is Okay (neither good nor bad) in your case?
 
