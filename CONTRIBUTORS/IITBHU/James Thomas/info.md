@@ -19,7 +19,7 @@ To know more, <a href = "https://github.com/james3gh">click here</a>.
 ### Ques-4 What changes to your procedure of doing this task will happen if I told you to write all first three answers (Ans - 1, 2, 3) at the end of the file.
 
 **Ans-4** If all the 3 ques were answered at the end then it will not be possible to split the hunk. However the procedure remains same using edit command.
-
+commit 1 from b4
 **Ques** - How to edit the last commit message in git?
 
 **Ans** - To edit the last commit the user has made, use this command <br />
