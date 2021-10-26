@@ -31,6 +31,7 @@ However using this command makes a new commit hash, so one need to force push it
 
 **Ans-2** Force push is not a good practice though as it changes the git commit history. The other contributors working on a project can face issue due to this.
 In our case, as working on the individual named files, doesn't make any change to the files of other contributors. Moreover, in our case we as individul were working on our own repositories. The owner of the repo if force pushed the changes then all the other contributors working on the repo may loose some data.
+commit 1 from b2
 
 ### Ques-3 Name anyone Git or Github topic on which any issue is not made on this repo. (Your answer should be different from others.
 
